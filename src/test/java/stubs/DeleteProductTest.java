@@ -6,7 +6,7 @@ public class DeleteProductTest {
 	@Test
 	public void productDeleteTest() {
 		System.out.println("productDeleteTest executed");
-		System.out.println("chandu contact deleted");
+		System.out.println("chandu  deleted");
 	}
 	@Test
 	public void deleteCampaignTest() {

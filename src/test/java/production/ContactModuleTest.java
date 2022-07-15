@@ -6,7 +6,7 @@ public class ContactModuleTest {
 @Test
 public void createContactTest() {
 	System.out.println("createContactTest executed");
-	System.out.println("chandu contact executed");
+	System.out.println("chandu executed");
 }
 @Test
 public void createOrganizationTest() {
